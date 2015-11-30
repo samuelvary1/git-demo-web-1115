@@ -1,3 +1,1 @@
-5.times do 
-	puts "Hello world!"
-end
+puts "Hello World! Welcome to the Jungle"
