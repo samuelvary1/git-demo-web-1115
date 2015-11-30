@@ -1,3 +1,3 @@
 5.times do 
-	puts "Bye!"
+	puts "Please go away!"
 end
