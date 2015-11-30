@@ -1,3 +1,3 @@
 5.times do 
-	puts "Please go away!"
+	puts "I don't know why you say goodbye!"
 end
